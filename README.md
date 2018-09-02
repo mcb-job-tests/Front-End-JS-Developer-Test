@@ -1,9 +1,6 @@
 # FrontEndInterview
 Screening test for javascript developers. The idea of this task is to make the tests pass. 
-You should take the code used here, clone it locally, and submit your solutions in a private link to us.
-
-Timebox yourself to each task, some are more difficult than others. We don't expect you to solve every problem. 
-The main test is discussing how you got on afterwards.
+You should take the code used here, clone it locally, and submit your solutions in a link to us.
 
 ## Setup
 
